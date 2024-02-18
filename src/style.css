@@ -1,3 +1,39 @@
 body {
-  background-color: #f4d257;
+  background-color: #fff0ba;
+}
+
+h1,
+p,
+a,
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+p {
+  font-size: 14px;
+  text-align: justify;
+}
+
+.contact-info {
+  text-align: center;
+}
+
+footer {
+  font-size: 11px;
+}
+
+img {
+  max-width: min-content;
+  height: auto;
+  display: block;
+}
+
+.container {
+  padding: 20px;
 }
