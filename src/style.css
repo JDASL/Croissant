@@ -1,5 +1,5 @@
 body {
-  background-color: #fff0ba;
+  background: #fff0ba;
 }
 
 h1,
@@ -26,14 +26,11 @@ p {
 
 footer {
   font-size: 11px;
+  padding-top: 20px;
 }
 
 img {
   max-width: min-content;
   height: auto;
   display: block;
-}
-
-.container {
-  padding: 20px;
 }
